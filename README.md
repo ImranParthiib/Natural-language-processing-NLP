@@ -45,7 +45,7 @@ Depending on your preferred environment setup, follow one of the options below:
 
 ### 4. Install Dependencies
 
-Install the necessary Python packages listed in the `requirements.txt` file by running the following command in the VS Code terminal:
+Install the necessary Python packages listed in the `[requirements.txt](requirements.txt)` file by running the following command in the VS Code terminal:
 
 ### 5. Explore the Documentation
 
